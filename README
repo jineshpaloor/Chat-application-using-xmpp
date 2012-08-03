@@ -3,3 +3,4 @@ This is a simple chat application using xmpp protocol.
 One can log in to the chat app with ejabberd registered account.
 On connect this app will send a message to server and server will
 response with a connection established message.
+
